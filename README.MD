@@ -9,7 +9,7 @@ Steps:
 
 Clone/Download the Project
 
-Clone the repository: git clone [https://github.com/0veezi/portscanner-web] OR
+Clone the repository: git clone https://github.com/0veezi/portscanner-web.git OR
 Download and extract the project files
 Install Dependencies
 
